@@ -2,7 +2,7 @@
 
 Icecube is a presentation template for research, LT, and so on.
 
-The color palette is inspired by Iceberg [cocopon](https://github.com/cocopon/iceberg.vim:w).
+The color palette is inspired by Iceberg [cocopon](https://github.com/cocopon/iceberg.vim).
 
 
 ## How to install
