@@ -17,3 +17,11 @@ The color palette is inspired by Iceberg [cocopon](https://github.com/cocopon/ic
 
 1. https://docs.google.com/presentation/d/1ghF4eezW66EpRZ1xr-5oFoBR_VKlFFN5vW3W6MYPQ2s/template/preview
 
+※　Depending on the operating system, the font may not be correct. Please change them by yourself.
+
+### Power Point 
+
+1. Clone or download this repository.
+1. Open `icecube.potx` and Save as template
+
+※　Depending on the operating system, the font may not be correct. Please change them by yourself.
